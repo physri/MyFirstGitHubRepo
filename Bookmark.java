@@ -24,7 +24,7 @@ public class Bookmark {
 	public String getProfileUrl() {
 		return profileUrl;
 	}
-
+//this is a setter method for profileURL data
 	public void setProfileUrl(String profileUrl) {
 		this.profileUrl = profileUrl;
 	}
