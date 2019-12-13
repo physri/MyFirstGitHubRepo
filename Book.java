@@ -46,5 +46,5 @@ public class Book extends Bookmark {
 	protected void setAmazonRating(double amazonRating) {
 		this.amazonRating = amazonRating;
 	}
-
+//This is a one line comment added for testing purposes.
 }
